@@ -1,4 +1,4 @@
-# Altercations have been made by drinkincode
+# Alterations have been made by drinkincode
 
 # Getting Started with Create React App
 
