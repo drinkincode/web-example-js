@@ -5,9 +5,6 @@ import NameForm from './../TextInputClass'
 import ExClass from './../Examples/exClass.js'
 import ExFunc from './../Examples/exFunc.js'
 import Form from './../Examples/form.js'
-import Header from './../Navbar/Header.js'
-// import Navbar from './Navbar.js'
-
 
 function Home() {
 	return (
@@ -17,8 +14,6 @@ function Home() {
 				margin: "auto",
 			}}
 		>
-
-      		<Header></Header>
 
 			<h1 style={{ color: "green" }}>
 				GeeksforGeeks blows

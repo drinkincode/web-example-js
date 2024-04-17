@@ -12,7 +12,6 @@ function Dup() {
 				margin: "auto",
 			}}
 		>
-			<Header></Header>
 			<h1 style={{ color: "green" }}>
 				GeeksforGeeks blows
 			</h1>
