@@ -1,10 +1,9 @@
 // import React from 'react';
 import './../App.css';
-import Header from './../Navbar/Header.js'
 
 
 
-function Dup() {
+function Blog() {
 	return (
 		<div
 			style={{
@@ -19,4 +18,4 @@ function Dup() {
 		</div>
 	);
 }
-export default Dup;
+export default Blog;

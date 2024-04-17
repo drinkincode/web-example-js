@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 // import Header from "./Header"
 import Layout from "./pages/Layout";
 import Home from "./pages/Home"
-import Dup from "./pages/Dup";
+import Dup from "./pages/Blog";
 
 function App() {
   return (
