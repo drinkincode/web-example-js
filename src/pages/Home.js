@@ -5,8 +5,9 @@ import NameForm from './../TextInputClass'
 import ExClass from './../Examples/exClass.js'
 import ExFunc from './../Examples/exFunc.js'
 import Form from './../Examples/form.js'
-
+import ApiCall from './../ApiCall/ApiCall.js';
 function Home() {
+
 	return (
 		<div
 			style={{
@@ -14,6 +15,7 @@ function Home() {
 				margin: "auto",
 			}}
 		>
+
 
 			<h1 style={{ color: "green" }}>
 				GeeksforGeeks blows
@@ -31,6 +33,7 @@ function Home() {
 
       		<Form></Form>
 
+			<ApiCall></ApiCall>
 
 
 		</div>

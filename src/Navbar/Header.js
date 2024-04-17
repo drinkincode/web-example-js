@@ -8,6 +8,7 @@ const Header = () => {
     <>
       <Container className="">
         <Navbar
+          // data-bs-theme="dark"
           id="navbar"
           sticky="top"
           expand="md"
