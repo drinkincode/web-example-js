@@ -20,7 +20,6 @@ function Home() {
 
       		<Header></Header>
 
-			{/* <Navbar></Navbar> */}
 			<h1 style={{ color: "green" }}>
 				GeeksforGeeks blows
 			</h1>
