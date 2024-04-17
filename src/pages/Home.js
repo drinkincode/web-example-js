@@ -2,8 +2,8 @@ import React from 'react';
 // import './App.css';
 import Button from'./../Button';
 import NameForm from './../TextInputClass'
-import ExClass from './../exClass'
-import ExFunc from './../exFunc'
+import ExClass from '../Examples/exClass.js'
+import ExFunc from '../Examples/exFunc.js'
 import Form from './../form'
 import Header from './../Header.js'
 // import Navbar from './Navbar.js'
