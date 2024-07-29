@@ -1,12 +1,14 @@
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 // import {  Link } from "react-router-dom";
-// navbar feature
+// navbar feature - 2
+// navbar feature - 3
 const Header = () => {
   return (
     <>
       <Container className="">
         <Navbar
+          // data-bs-theme="dark"
           id="navbar"
           sticky="top"
           expand="md"

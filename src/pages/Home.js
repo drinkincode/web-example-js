@@ -1,15 +1,13 @@
 import React from 'react';
 // import './App.css';
-import Button from'./../Button';
+import Button from'./../Examples/Button.js';
 import NameForm from './../TextInputClass'
-import ExClass from './../exClass'
-import ExFunc from './../exFunc'
-import Form from './../form'
-import Header from './../Header.js'
-// import Navbar from './Navbar.js'
-
-
+import ExClass from './../Examples/exClass.js'
+import ExFunc from './../Examples/exFunc.js'
+import Form from './../Examples/form.js'
+import ApiCall from './../ApiCall/ApiCall.js';
 function Home() {
+
 	return (
 		<div
 			style={{
@@ -18,7 +16,6 @@ function Home() {
 			}}
 		>
 
-      		<Header></Header>
 
 			<h1 style={{ color: "green" }}>
 				GeeksforGeeks blows
@@ -36,6 +33,7 @@ function Home() {
 
       		<Form></Form>
 
+			<ApiCall></ApiCall>
 
 
 		</div>

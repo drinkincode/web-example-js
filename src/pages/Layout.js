@@ -1,5 +1,5 @@
-import { Outlet, Link } from "react-router-dom";
-import Header from "./../Header";
+import { Outlet } from "react-router-dom";
+import Header from './../Navbar/Header.js'
 
 const Layout = () => {
   return (

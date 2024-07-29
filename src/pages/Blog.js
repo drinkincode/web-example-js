@@ -1,10 +1,9 @@
 // import React from 'react';
 import './../App.css';
-import Header from './../Header'
 
 
 
-function Dup() {
+function Blog() {
 	return (
 		<div
 			style={{
@@ -12,7 +11,6 @@ function Dup() {
 				margin: "auto",
 			}}
 		>
-			<Header></Header>
 			<h1 style={{ color: "green" }}>
 				GeeksforGeeks blows
 			</h1>
@@ -20,4 +18,4 @@ function Dup() {
 		</div>
 	);
 }
-export default Dup;
+export default Blog;
